@@ -10,4 +10,4 @@ The last is a data science jobs report, which will likely be too small a dataset
 
 Abstract:
 
-Our project uses a dataset of covid-19 cases within 214 countries. This dataset has over 50,000 rows and 43 columns. Some of the main features of this dataset include date, continent, location, total cases, new cases, and total deaths. First we would like to clean the data and then use the cleaned data to...
+Our project uses a dataset of covid-19 cases within 214 countries. This dataset has over 50,000 rows and 43 columns. Some of the main features of this dataset include date, continent, location, total cases, new cases, and total deaths. First we would like to clean the data and then use the cleaned data to determine how prepared a country was for the virus outbreak. We will use the hospital beds, handwashing facilities, new deaths, and new cases columns to determine if a country was prepared for the covid outbreak or not.
