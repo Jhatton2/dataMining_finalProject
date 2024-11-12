@@ -8,3 +8,6 @@ The next is Personal Consumption expenditures from the Bureau of Economic Analys
 
 The last is a data science jobs report, which will likely be too small a dataset to create an appropriate report.
 
+Abstract:
+
+Our project uses a dataset of covid-19 cases within 214 countries. This dataset has over 50,000 rows and 43 columns. Some of the main features of this dataset include date, continent, location, total cases, new cases, and total deaths. First we would like to clean the data and then use the cleaned data to...
