@@ -1,13 +1,15 @@
-# dataMining_finalProject
-Final group project DataMining
-Jesse - I added three datasets to consider. 
+# Final group project for DataMining (COSC 526)
 
-The first is Uniform Crime Reporting Program Data: Supplementary Homicide Reports, United States, 2022. there are several things we could do here, such as a review of gun homicides or the types of weapons used in homicide.
+# Group members:
+Tyler Herndon
+Jacob Harris
+Jennifer Coburn
+Jesse Hatton
 
-The next is Personal Consumption expenditures from the Bureau of Economic Analysis, BEA.gov.  This one could be very challenging based on how the data is prepared in the dataset.
+# Abstract:
 
-The last is a data science jobs report, which will likely be too small a dataset to create an appropriate report.
-
-Abstract:
-
-Our project uses a dataset of covid-19 cases within 214 countries. This dataset has over 50,000 rows and 43 columns. Some of the main features of this dataset include date, continent, location, total cases, new cases, and total deaths. First we would like to clean the data and then use the cleaned data to determine how prepared a country was for the virus outbreak. We will use the hospital beds, handwashing facilities, new deaths, and new cases columns to determine if a country was prepared for the covid outbreak or not.
+Our project uses a Covid-19 dataset that contains over 1 million unique patients and 21 columns. Some of the main features of this
+dataset set consist of patient type, age, pneumonia, COPD, diabetes, and more. First, we verified whether the data was clean and
+generated charts to view the distribution of each of the features in the dataset to look for imbalances. We did have to generate a
+new column to provide a binary classification for whether a patient had died from Covid-19. The main goal of this project is to
+take this dataset and determine whether a patient is at risk given their current symptom, status, and medical history.
