@@ -15,3 +15,6 @@ new column to provide a binary classification for whether a patient had died fro
 take this dataset and determine whether a patient is at risk given their current symptom, status, and medical history. This
 approach also enables the exploration of potential correlations between specific health conditions and COVID-19 outcomes, paving 
 the way for personalized medical interventions.
+
+# Conclusion:
+ICU, Intubation, Phun, and Age were found to be important factors for predicting death. If patients fall into these categories, action should be taken to prevent a patient from getting the other factors since these are showing us they are related to death. We should look for how Age and cormobidity diseases lead to death. 
